@@ -1,7 +1,7 @@
 # ETL en nube: un nuevo entorno para nuestros datos
 
 En este repositorio encontrarán un manual, que explica detalladamente como implementar la siguiente arquitectura de ETL, en las nubes Azure y AWS,
-así como el notebook usado para el proceso.
+así como el notebook usado para el proceso. Adicionalmente, está la prensentación usada en la charla wids 2021.
 
 ![Header](https://github.com/lauralpezb/ETL_en_nube/blob/main/diagrama_nube_etl_wids.drawio.png "Header")
 
